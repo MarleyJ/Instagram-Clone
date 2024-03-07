@@ -1,0 +1,31 @@
+.navbar{
+    display: flex;
+    align-items:center;
+    padding:50px;
+    margin: auto;
+    justify-content: space-around;
+}
+.name{
+     font-size: 60px;
+     font-weight:bolder;
+}
+.nav-item{
+   justify-content: center;
+
+}
+.logo{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin:0 20% 0 20%;
+
+}
+.Account{
+    display: flex;
+    justify-content: center;
+
+}
+img{
+    margin: 10px;
+}
